@@ -21,4 +21,4 @@ Python, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost, Streamlit, Joblib
 
 ## Files
 - ML_main_project(1).ipynb — main notebook
-- credit_card_fraud_dataset-5.xlsx
+- credit_card_fraud_dataset-5.csv - dataset
