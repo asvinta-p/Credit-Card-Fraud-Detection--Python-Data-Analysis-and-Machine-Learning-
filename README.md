@@ -2,6 +2,7 @@
 
 ## Overview
 Built an end-to-end machine learning project to detect fraudulent credit card transactions. 
+Trained and tested multiple classification algorithms and identified XGBoost as the best performing model.
 Built a complete pipeline from data cleaning to model deployment as a web application using streamlit.
 
 ## Tools Used
@@ -16,7 +17,7 @@ Python, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost, Streamlit, Joblib
 
 ## Results
 - XGBoost selected as best model because of its high accuracy,strong fraud detection capability and better generalization performance after comparing 9 classification models.
-- Full pipeline from raw data to deployed application
+- Full pipeline from raw data to deployment
 - Real-time fraud prediction from user inputs via Streamlit
 
 ## Files
